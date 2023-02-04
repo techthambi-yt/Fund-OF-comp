@@ -1,0 +1,19 @@
+head <file name>  -> displays first 10 lines
+
+
+tail <file name> ->displays last 10 lines
+
+
+cat -> displays file content from first to last
+
+
+tac-> -> displays file content from last to first
+
+
+more <file name>  -> displays same as cat but it can display next lines and more
+
+
+
+less -> same as more but it cut shorts the display to width
+
+

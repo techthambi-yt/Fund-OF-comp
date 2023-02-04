@@ -1,0 +1,16 @@
+touch <file name> -> used to create empty files
+
+
+cat > <file name> ->  used to create a file.. display and copy content into other files
+
+
+rm ->used to remove a file 
+
+
+cp ->used to copy a file 
+
+
+mv <file name> <directory path>-> used to move a file 
+
+
+rename-> used to rename a file 

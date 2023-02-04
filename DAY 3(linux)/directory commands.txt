@@ -1,0 +1,13 @@
+pwd Command-shows present working directory
+
+
+mkdir ->creates folder
+
+
+rmdir  -> delete directory
+
+
+ls- list files in pwd 
+
+
+cd -> change directory
